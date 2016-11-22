@@ -4,7 +4,7 @@ MAINTAINER MMU
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     wget \
-    LibreOffice \
+    libreoffice \
     openjdk-8-jre \
     icedtea-8-plugin
 
