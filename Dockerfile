@@ -1,5 +1,5 @@
 FROM selenium/standalone-firefox-debug
-MAINTAINER MM
+MAINTAINER MMU
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
