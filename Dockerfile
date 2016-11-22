@@ -1,4 +1,4 @@
-FROM selenium/standalone-firefox-debug
+FROM selenium/standalone-firefox-debug:2.50.0
 MAINTAINER MMU
 
 RUN apt-get update && \
