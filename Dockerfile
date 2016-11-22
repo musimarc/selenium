@@ -5,5 +5,5 @@ RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     wget \
     libreoffice \
-    openjdk-8-jre \
-    icedtea-8-plugin
+    openjdk-7-jre \
+    icedtea-7-plugin
